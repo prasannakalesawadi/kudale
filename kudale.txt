@@ -1,6 +1,6 @@
 103.150.136.82
 _______________________________________
-
+test
 cd kudale
 git pull
 source venv/bin/activate
